@@ -48,13 +48,13 @@ document.querySelectorAll('.Map-Url').forEach(link => {
 
 // ***Share URL Start***
 
-const watasUrl = "https://wa.me/qr/DXZ2S74EMTTZD1";
+const watasUrl = "https://wa.me/919526701201";
 document.querySelectorAll('.Wats-Url').forEach(link => {
     link.href = watasUrl;
 });
 
 
-const fbUrl = "https://wa.me/qr/DXZ2S74EMTTZD1";
+const fbUrl = "https://www.facebook.com/profile.php?id=100087985568973";
 document.querySelectorAll('.FB-Url').forEach(link => {
     link.href = fbUrl;
 });
