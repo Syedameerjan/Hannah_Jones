@@ -235,9 +235,9 @@ h6,
     /* background-image: url("https://photos.app.goo.gl/17D5aFFzEKdZgfdZ7"); */
    justify-content: center;
     
-    /* background-position: center center;
+    background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover; 
 }
 /*** Hero Header ***/
 
